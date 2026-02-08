@@ -1,1 +1,0 @@
-# tab1198-OCR-Screenshot-Translator
