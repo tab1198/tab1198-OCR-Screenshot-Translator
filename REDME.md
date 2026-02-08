@@ -1,1 +1,0 @@
-#pip install -r requirements.txt 新设备运行
